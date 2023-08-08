@@ -26,3 +26,14 @@ A given element with ID is affected as follows
 ```HTML
 <p id="mystyle1">Hello World!</p>
 ```
+### Class Selector
+Elements of the same class are affected
+```CSS
+.center {
+  text-align: center;
+  color: red;
+}
+```
+```HTML
+<h1 class="center">Red and center-aligned heading</h1>
+```
