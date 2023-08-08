@@ -85,42 +85,18 @@ This can be applied as follows
 ```
 ## Text Properties
 We consider the following style properties of texts
-```HTML
-<div style=" color: red">
-        Color property used here
-    </div>
-    </br>
-    <div style=" text-align: center">
-        Text align property used here
-    </div>
-    </br>
-    <div style=" text-decoration: underline">
-        Text decoration property used here
-    </div>
-    </br>
-    <div style="text-transform: lowercase">
-        Text transform property used here
-    </div>
-    </br>
-    <div style="text-indent: 80px">
-        Text indent property used here
-    </div>
-    </br>
-    <div style=" letter-spacing: 4px">
-        Text line spacing property used here
-    </div>
-    </br>
-    <div style="line-height: 40px">
-        Text line height property used here
-    </div>
-    </br>
-    <div style="text-shadow: 3px 1px blue;">
-        Text shadow property used here
-    </div>
-    </br>
-    <div style="word-spacing: 15px;">
-        Text word spacing property used here
-    </div>
+```CSS
+.style2 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: lowercase;
+  text-indent: 80px;
+  letter-spacing: 4px;
+  line-height: 40px;
+  text-shadow: 3px 1px blue;
+  word-spacing: 15px;
+}
 ```
 
 
