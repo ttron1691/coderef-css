@@ -68,9 +68,9 @@ Typical types can be defined for font customization purposes
   text-align: center;
   font-style: normal;
   font-variant: normal;
-      }
+}
 ```
-
+This can be applied as follows
 ```HTML
 <div class="style1">Geeks for Geeks</div>
 ```
