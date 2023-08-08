@@ -24,5 +24,5 @@ A style definition based on IDs of an element is given by
 ```
 A given element with ID is affected as follows
 ```HTML
-<p id="para1">Hello World!</p>
+<p id="mystyle1">Hello World!</p>
 ```
