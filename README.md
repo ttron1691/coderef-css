@@ -56,7 +56,7 @@ p.center {
 ```HTML
 <p class="center">This paragraph will be red and center-aligned.</p>
 ```
-## Font styling
+## Font properties
 Typical types can be defined for font customization purposes
 
 ```CSS
@@ -73,6 +73,11 @@ Typical types can be defined for font customization purposes
 This can be applied as follows
 ```HTML
 <div class="style1">Geeks for Geeks</div>
+```
+## Text Properties
+We consider the following style properties of texts
+```CSS
+a
 ```
 
 
