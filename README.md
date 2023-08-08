@@ -15,3 +15,10 @@ p {
   color: red;
 }
 ```
+A style definition based on IDs of an element is given by
+```CSS
+#mystyle1 {
+  text-align: center;
+  color: red;
+}
+```
