@@ -1,2 +1,2 @@
-# coderef-css
-Code Reference for CSS
+# Code Reference for CSS
+## Style definitions
