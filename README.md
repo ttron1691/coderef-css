@@ -7,8 +7,10 @@ selector {
     property1: value1;
     property2: value2;
 }
+```
 ### Universal Selector
 The universal selector for all classes is given by
+```CSS
 * {
   property: value;
 }
@@ -19,6 +21,13 @@ The type selector is sensitive to a given type.
 For example, customizing the paragraph class reads
 ```CSS
 p {
+  text-align: center;
+  color: red;
+}
+```
+We can also define multiple types at the same Block
+```CSS
+h1, h2 {
   text-align: center;
   color: red;
 }
