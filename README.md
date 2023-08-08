@@ -37,3 +37,14 @@ Elements of the same class are affected
 ```HTML
 <h1 class="center">Red and center-aligned heading</h1>
 ```
+In this case only paragraph elements of the given class are affected
+```CSS
+p.center {
+  text-align: center;
+  color: red;
+}
+```
+```HTML
+<p class="center">This paragraph will be red and center-aligned.</p>
+```
+
