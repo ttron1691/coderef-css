@@ -1,4 +1,21 @@
 # Code Reference for CSS
+## Include CSS file in HTML document
+Within a HTML document we may include a corresponding CSS file "style.css" as follows
+```HTML
+<link rel="stylesheet" type="text/css" href="/style.css" />
+```
+In additional CSS can be included internally within a HTML component in the following way
+```HTML
+<style type="text/css">
+div {
+    color: #444;
+}
+</style>
+```
+Furthermore we may include styles inline
+```HTML
+<tag style="property: value"> </tag>
+```
 ## CSS Selectors
 Assign style for all elements of a given class
 The basic style of a CSS file looks as follows
